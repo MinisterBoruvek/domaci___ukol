@@ -48,9 +48,14 @@ img{
 }
 
 .port{
-    font-size: 45px;
+    font-size: 80px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
 
+.port1{
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
 .icon{
     margin-top: 550px;
     display: inline;
@@ -100,6 +105,9 @@ height: 50px;
 text-align: right;
 color: whitesmoke;
 margin: 0px;
+padding-top: 20px;
+padding-right: 65px;
+font-size: 15px;
 }
 
 .copy{
